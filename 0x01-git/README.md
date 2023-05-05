@@ -1,2 +1,2 @@
 0x01-git
-first commit
+Changed branch to main from update-script branch
